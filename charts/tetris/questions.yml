@@ -3,6 +3,8 @@ questions:
     type: string
     label: Site title
     group: "Application Settings"
+    min_length: 3
+    max_length: 10
   - variable: autoplay
     type: boolean
     label: Start Tetris in autoplay mode

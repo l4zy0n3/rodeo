@@ -6,6 +6,7 @@ questions:
   - variable: autoplay
     type: boolean
     label: Start Tetris in autoplay mode
+    tooltip: Start Tetris in autoplay mode
     group: "Application Settings"
   - variable: theme
     type: enum
